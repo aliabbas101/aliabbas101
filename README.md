@@ -5,7 +5,7 @@
 Here are some of my Github Stats:
 <br><br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aliabbas101&show_icons=true&icon_color=white&title_color=white&text_color=white&bg_color=90,ff00cc,333399" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aliabbas101&show_icons=true&icon_color=ffffff&title_color=ffffff&text_color=ffffff&bg_color=75,ff00cc,333399" />
 </a>
 
 <!--
