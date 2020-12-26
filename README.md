@@ -1,5 +1,5 @@
 ### Hi there 👋
-![AliAbbas github stats](https://github-readme-stats.vercel.app/api?username=aliabbas101&show_icons=true&theme=radical)
+![AliAbbas github stats](https://github-readme-stats.vercel.app/api?username=aliabbas101&show_icons=true&theme=radical&bg_color=90,green,#ff00cc,#333399)
 <!--
 **aliabbas101/aliabbas101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
