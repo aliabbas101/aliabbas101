@@ -3,7 +3,7 @@ Hey guys, I am a Software Engineering graduate, holding an extensive experience 
 Here are some of my Github Stats:
 <br><br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aliabbas101&show_icons=true&icon_color=ffffff&title_color=ffffff&text_color=ffffff&bg_color=180,ef32d9,89fffd" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aliabbas101&show_icons=true&icon_color=ffffff&title_color=ffffff&text_color=ffffff&bg_color=30,ef32d9,89fffd" />
 </a>
 
 <!--
