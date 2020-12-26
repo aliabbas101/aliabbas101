@@ -1,12 +1,11 @@
 <p>Hey guys, I am a Software Engineering graduate, holding an extensive experience in the field of Web Development, started as a Back-end Developer, and worked my way up in becoming a Full Stack Developer having a good hold in various web technologies and front-end frameworks, over the course of few years during my journey I also became an Artificial Intelligence enthusiast, knowing the complex problems I could solve with it, I started learning and working on several projects in areas like Computer Vision, Machine Learning, Deep Learning and Natural Language Processing, being a part of one of the fastest growing global community of software engineers and computer scientists, I realized I can contribute to this community by sharing my knowledge and experience, so I started a Youtube channel: Wennovation Academy, on which I make tutorials to help other technology enthusiasts like me, who are striving to change the world for better.</p>
 
-Here are some of my Github Stats:
+<p align="center">Here are some of my Github Stats:</p>
 <p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aliabbas101&show_icons=true&icon_color=ffffff&title_color=ffffff&text_color=ffffff&bg_color=30,ef32d9,89fffd" />
+<a href="https://github.com/aliabbas101">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aliabbas101&show_icons=true&icon_color=ffffff&title_color=f8b500&text_color=ffffff&bg_color=30,2c3e50,000000" />
 </a>
 </p>
-
 <!--
 **aliabbas101/aliabbas101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
