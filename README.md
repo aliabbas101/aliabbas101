@@ -1,11 +1,9 @@
-### Hi there 👋
-
-
+Hey guys, I am a Software Engineering graduate, holding an extensive experience in the field of Web Development, started as a Back-end Developer, and worked my way up in becoming a Full Stack Developer having a good hold in various web technologies and front-end frameworks, over the course of few years during my journey I also became an Artificial Intelligence enthusiast, knowing the complex problems I could solve with it, I started learning and working on several projects in areas like Computer Vision, Machine Learning, Deep Learning and Natural Language Processing, being a part of one of the fastest growing global community of software developers and computer scientists, I realized I can contribute to this community by sharing my knowledge and experience, so I started a Youtube channel: Wennovation Academy, on which I make tutorials to help other technology enthusiasts like me, who are striving to change the world for better.
 
 Here are some of my Github Stats:
 <br><br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aliabbas101&show_icons=true&icon_color=ffffff&title_color=ffffff&text_color=ffffff&bg_color=75,ff00cc,333399" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aliabbas101&show_icons=true&icon_color=ffffff&title_color=ffffff&text_color=ffffff&bg_color=180,ef32d9,89fffd" />
 </a>
 
 <!--
